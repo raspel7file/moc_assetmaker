@@ -6,8 +6,8 @@ Use your picture and get:
 2. Battle flag
 3. Flag waving left
 4. Flag waving right
-5. Camp flag
-6. Unit tree tileset
+5. Camp flag (not animated, sadly)
+6. Unit tree background tileset
 
 ## How to use
 1. Copy files.
